@@ -1,1 +1,1 @@
-# Sudoku-Solver
+Currently only handles "easy" sudokus where it is guaranteed that there will always be a spot where only one specific number fits
